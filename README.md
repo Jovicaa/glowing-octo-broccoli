@@ -3,7 +3,7 @@
 ## Initial structure with some elements.
 
 ### Pages:
-About
-Features
-Pricing
-Contact
+-About
+-Features
+-Pricing
+-Contact
